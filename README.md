@@ -23,8 +23,8 @@ The Book Management System is a web application for managing books. It allows us
 - User Authentication: Sign up and log in to access the application.
 - Book Management: Perform operations such as adding, updating, and deleting books.
 - Dashboard: View a dashboard with information about your book collection.
-- Reading List: Keep track of books you are currently reading.
-- Wishlist: Create a wishlist of books you want to read.
+- Reading List: Keep track of books you are currently reading. ---- Pending need to work on this
+- Wishlist: Create a wishlist of books you want to read. ---- Pending need to work on this
 
 ## Technologies Used
 
