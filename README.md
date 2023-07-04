@@ -5,6 +5,7 @@ The Book Management System is a web application for managing books. It allows us
 ## Installation
 
 1. Install the required Node.js dependencies by running the following command in the main folder and the admin folder:
+2. and in admin folder do npm run build
    
 
 ## Usage
