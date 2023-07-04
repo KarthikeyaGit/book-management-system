@@ -1,0 +1,5 @@
+<template>
+  wishlist
+    </template>
+    
+    
